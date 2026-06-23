@@ -1,4 +1,4 @@
-# Remote-Notes-Wiki-Use-Guide
+# Remote-Notes-Use-Guide
 This is a Use Guide, or Wiki, for using Obsidian with the [^1]Git community plug-in to accomplish note synchronization without paying for Obsidian's Premium plan (GitHub is free, dorks).
 
 All of your notes live simultaneously on GitHub within their own Repo (found here at [your GitHub repo](https://github.com/zahineman/Obsidian-Markdown)) and on your local machine.
